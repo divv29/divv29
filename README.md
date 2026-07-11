@@ -105,7 +105,7 @@ const divyansh = {
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 </details>
 
