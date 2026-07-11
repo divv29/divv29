@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity;Currently+Building%3A+TruthGuard&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,6 @@
 const divyansh = {
   role: ["Full-Stack Developer", "AI/ML Explorer"],
   location: "Pune, Maharashtra, India 🇮🇳",
-  currentlyBuilding: "TruthGuard — AI-powered fake news detector",
   stack: {
     languages: ["Python", "Java", "C++", "JavaScript"],
     web: ["React", "Node.js", "Flask", "Express"],
@@ -89,8 +88,8 @@ const divyansh = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
@@ -137,7 +136,6 @@ const divyansh = {
 
 <br/>
 
-<!-- Distinct slim closing accent — intentionally different from the hero, not a repeat -->
 <img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/footer.svg" width="100%"/>
 
 </div>
