@@ -10,11 +10,10 @@
 
 <br/>
 
+<!-- Stats only — social links live in "Let's Connect" below, not duplicated here -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=divv29&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/divv29?style=for-the-badge&color=302B63&labelColor=0F0C29" alt="Followers"/>
-  <a href="https://www.linkedin.com/in/divyanshhtiwari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:divyanshtiwari75@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/divv29?style=for-the-badge&color=302B63&labelColor=0F0C29&label=FOLLOWERS" alt="Followers"/>
 </p>
 
 </div>
@@ -90,8 +89,8 @@ const divyansh = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
@@ -136,6 +135,9 @@ const divyansh = {
 <i>"Code. Explore. Repeat." 🔁</i>
 </div>
 
-<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/hero.svg" width="100%"/>
+<br/>
+
+<!-- Distinct slim closing accent — intentionally different from the hero, not a repeat -->
+<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/footer.svg" width="100%"/>
 
 </div>
