@@ -86,14 +86,26 @@ const divyansh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## 📊 GitHub Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Self-hosted via .github/workflows/metrics.yml — regenerates every 6 hours inside your own Action, never depends on a third-party server -->
-<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/metrics.svg" width="100%"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divv29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
 </div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
