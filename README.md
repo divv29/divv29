@@ -123,45 +123,6 @@ const divyansh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## 🚀 Project Showcase
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔎 TruthGuard
-Fake news detection platform with an LLM-backed verdict engine, JWT auth, admin panel, and a companion Chrome extension.
-
-**Stack:** React · FastAPI · Node.js · PostgreSQL · Groq (Llama 3.3 70B)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/divv29/truthguard)
-
-</td>
-<td width="33%" valign="top">
-
-### 🍽️ Budget Bites Pune
-Full-stack restaurant discovery app for budget-friendly eats around Pune, built end-to-end and deployed.
-
-**Stack:** Flask · PostgreSQL · bcrypt · CSS
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/divv29/budget-bites-pune)
-
-</td>
-<td width="33%" valign="top">
-
-### 📋 MIT-WPU Feedback System
-Teacher feedback platform with analytics dashboards and visual reporting for academic review.
-
-**Stack:** PHP · PostgreSQL · Chart.js
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/divv29/mitwpu-feedback)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
-
 ## 🌐 Let's Connect
 
 <div align="center">
