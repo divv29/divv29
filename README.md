@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- ANIMATED GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Divyansh%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Cybersecurity&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<!-- CUSTOM ORIGINAL ANIMATED HERO — self-hosted, hand-built, no third-party dependency -->
+<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/hero.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity;Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity;Currently+Building%3A+TruthGuard&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL / STATUS BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=divv29&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/divv29?style=for-the-badge&color=302B63&labelColor=0F0C29" alt="Followers"/>
@@ -22,7 +21,6 @@
 
 <br/>
 
-<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
 ## 🧠 About Me
@@ -88,26 +86,14 @@ const divyansh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divv29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<!-- Self-hosted via .github/workflows/metrics.yml — regenerates every 6 hours inside your own Action, never depends on a third-party server -->
+<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/metrics.svg" width="100%"/>
 
 </div>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
@@ -115,7 +101,6 @@ const divyansh = {
 
 <div align="center">
 
-<!-- Generated automatically by .github/workflows/snake.yml — see SETUP_GUIDE.md -->
 <img src="https://raw.githubusercontent.com/divv29/divv29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
 <img src="https://raw.githubusercontent.com/divv29/divv29/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
 
@@ -139,6 +124,6 @@ const divyansh = {
 <i>"Code. Explore. Repeat." 🔁</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/hero.svg" width="100%"/>
 
 </div>
