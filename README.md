@@ -95,7 +95,7 @@ const divyansh = {
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divv29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
@@ -105,7 +105,7 @@ const divyansh = {
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 </details>
 
