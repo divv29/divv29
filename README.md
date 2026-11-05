@@ -5,8 +5,16 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI+%26+ML&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- Stats only — social links live in "Let's Connect" below, not duplicated here -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=divv29&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/divv29?style=for-the-badge&color=302B63&labelColor=0F0C29&label=FOLLOWERS" alt="Followers"/>
+</p>
 
 </div>
 
@@ -16,6 +24,10 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```javascript
 const divyansh = {
   role: ["Full-Stack Developer", "AI/ML Explorer"],
@@ -24,11 +36,27 @@ const divyansh = {
     languages: ["Python", "Java", "C++", "JavaScript"],
     web: ["React", "Node.js", "Flask", "Express"],
     data: ["PostgreSQL", "MySQL"],
-    exploring: ["Machine Learning"]
+    exploring: ["Machine Learning", "Cybersecurity"]
   },
+  interests: ["AI", "Cybersecurity", "Gym 🏋️", "Travel ✈️", "Music 🎵"],
   motto: "Code. Explore. Repeat. 🔁",
 };
 ```
+
+</td>
+<td width="45%" valign="top">
+
+**⚡ Quick Facts**
+- 🎓 BCA (Science) student, MIT-WPU, Pune
+- 🛠️ Building full-stack products end-to-end — frontend, backend, database, deployment
+- 🔍 Currently deepening skills in Machine Learning & Cybersecurity
+- 🤝 Open to collaborating on open-source & AI-driven projects
+- 💬 Ask me about React, Flask, PostgreSQL, or C++
+- 📫 divyanshtiwari75@gmail.com
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
@@ -53,6 +81,29 @@ const divyansh = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divv29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
@@ -86,3 +137,5 @@ const divyansh = {
 <br/>
 
 <img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/footer.svg" width="100%"/>
+
+</div>
