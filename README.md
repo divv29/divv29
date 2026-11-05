@@ -49,6 +49,17 @@ const divyansh = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/divv29/divv29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/divv29/divv29/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 Open to collaborating on open-source & AI-driven projects. Say hi 👋
