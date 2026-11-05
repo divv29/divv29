@@ -1,111 +1,44 @@
 <div align="center">
 
-<!-- CUSTOM ORIGINAL ANIMATED HERO — self-hosted, hand-built, no third-party dependency -->
-<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/hero.svg" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+scale...;Full-Stack+Dev+%7C+Python+%2F+Java+%2F+C%2B%2B;Exploring+AI%2C+ML+%26+Cybersecurity&font=Fira+Code&center=true&width=560&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22&weight=600" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Stats only — social links live in "Let's Connect" below, not duplicated here -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=divv29&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/divv29?style=for-the-badge&color=302B63&labelColor=0F0C29&label=FOLLOWERS" alt="Followers"/>
-</p>
+<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/hero.svg" width="100%" alt="Divyansh Tiwari - Full-Stack Developer and AI/ML Explorer"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+I'm a BCA (Science) student at MIT-WPU, Pune. I build full-stack apps end to end (frontend, backend and database) with Flask, React and PostgreSQL, and I'm exploring machine learning.
 
-## 🧠 About Me
+---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## 🚀 Featured Projects
 
-```javascript
-const divyansh = {
-  role: ["Full-Stack Developer", "AI/ML Explorer"],
-  location: "Pune, Maharashtra, India 🇮🇳",
-  stack: {
-    languages: ["Python", "Java", "C++", "JavaScript"],
-    web: ["React", "Node.js", "Flask", "Express"],
-    data: ["PostgreSQL", "MySQL"],
-    exploring: ["Machine Learning", "Cybersecurity"]
-  },
-  interests: ["AI", "Cybersecurity", "Gym 🏋️", "Travel ✈️", "Music 🎵"],
-  motto: "Code. Explore. Repeat. 🔁",
-};
-```
+### 🛡️ TruthGuard
+An AI-powered fake news detection app. Users submit an article, an LLM analyses it, and every check is saved to their personal history. It includes JWT authentication, an admin panel and a Chrome extension.
 
-</td>
-<td width="45%" valign="top">
+`React` `Node.js` `Express` `PostgreSQL` `Groq API (Llama 3.3 70B)`
 
-**⚡ Quick Facts**
-- 🎓 BCA (Science) student, MIT-WPU, Pune
-- 🛠️ Building full-stack products end-to-end — frontend, backend, database, deployment
-- 🔍 Currently deepening skills in Machine Learning & Cybersecurity
-- 🤝 Open to collaborating on open-source & AI-driven projects
-- 💬 Ask me about React, Flask, PostgreSQL, or C++
-- 📫 divyanshtiwari75@gmail.com
+### 🍽️ [Budget Bites Pune](https://github.com/divv29/budget-bites-pune)
+A restaurant discovery app that helps people find good food in Pune on a budget, featuring 18 real restaurants. Built with a full ER diagram and project report.
 
-</td>
-</tr>
-</table>
+`Flask` `PostgreSQL`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+### 🎓 Teacher Feedback System
+A feedback platform built for MIT-WPU where students can submit teacher feedback through a simple web interface.
+
+`PHP` `PostgreSQL` `JavaScript`
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+| | |
+| :-- | :-- |
+| **Languages** | `Python` `Java` `C++` `JavaScript` `HTML` `CSS` |
+| **Frameworks** | `React` `Node.js` `Express` `Flask` |
+| **Databases** | `PostgreSQL` `MySQL` |
+| **Tools** | `Git` `GitHub` `VS Code` `Linux` |
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
-
-**Frameworks & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=divv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=divv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=divv29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divv29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
-
-</div>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=divv29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+---
 
 ## 🐍 Contribution Snake
 
@@ -116,26 +49,10 @@ const divyansh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+---
 
 ## 🌐 Let's Connect
 
-<div align="center">
+Open to collaborating on open-source and AI-driven projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-divyanshhtiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshhtiwari)
-[![Instagram](https://img.shields.io/badge/Instagram-divyanshh.tiwari-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyanshh.tiwari)
-[![Gmail](https://img.shields.io/badge/Gmail-divyanshtiwari75-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshtiwari75@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-<i>"Code. Explore. Repeat." 🔁</i>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/divv29/divv29/main/assets/footer.svg" width="100%"/>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/divyanshhtiwari) · [Instagram](https://instagram.com/divyanshh.tiwari) · [Email](mailto:divyanshtiwari75@gmail.com)
