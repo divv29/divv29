@@ -13,7 +13,7 @@ I'm a BCA (Science) student at MIT-WPU, Pune. I build full-stack apps end to end
 ## 🚀 Featured Projects
 
 ### 🛡️ [TruthGuard](https://github.com/divv29/truthguard)
-An AI-powered fake news detection app. Users submit an article, an LLM analyses it, and every check is saved to their personal history. It includes JWT authentication and an admin panel.
+An AI-powered fake news detection app. Users submit an article, an LLM analyses it, and every check is saved to a PostgreSQL-backed history. It also includes a REST API and a users table with roles.
 
 `React` `Node.js` `Express` `PostgreSQL` `Groq API (Llama 3.3 70B)`
 
