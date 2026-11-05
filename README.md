@@ -22,7 +22,7 @@ A restaurant discovery app that helps people find good food in Pune on a budget,
 
 `Flask` `PostgreSQL`
 
-### 🎓 Teacher Feedback System
+### 🎓 [Teacher Feedback System](https://github.com/divv29/mitwpu-feedback)
 A feedback platform built for MIT-WPU where students can submit teacher feedback through a simple web interface.
 
 `PHP` `PostgreSQL` `JavaScript`
